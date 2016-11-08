@@ -1,0 +1,58 @@
+{
+  "computerscience":[
+    {
+      "ClassName": "ITCS 6114 - Algorithms and Data Structures",
+      "Professor": "Aidong Lu",
+      "DifficultyRating": "5",
+      "Message": "Google is your friend."
+    },
+    {
+      "ClassName": "ITCS 5180 - Mobile Application Development",
+      "Professor": "Shebab",
+      "DifficultyRating": "6",
+      "Message": "Say goodbye to your social life!"
+    },
+    {
+      "ClassName": "ITCS 4102 - Survey of Programming Languages",
+      "Professor": "Ali Sever",
+      "DifficultyRating": "3",
+      "Message": "Enjoy all the free time you'll have!"
+    },
+    {
+      "ClassName": "ITCS 4230 - Introduction to Game Design and Development",
+      "Professor": "Dewan Ahmed",
+      "DifficultyRating": "4",
+      "Message": "Hope you get a good team."
+    },
+    {
+      "ClassName": "ITCS 6112 - Software System Design and Implementation",
+      "Professor": "Harini Ramaprasad",
+      "DifficultyRating": "5",
+      "Message": "Watch the videos before class! "
+    },
+    {
+      "ClassName": "ITCS 6150 - Intelligent Systems",
+      "Professor": "Jing Xiao",
+      "DifficultyRating": "6",
+      "Message": "Be warned the perils of AI!"
+    },
+    {
+      "ClassName": "ITCS 5231",
+      "Professor": "Daniel Jugan",
+      "DifficultyRating": "4",
+      "Message": "Don't leave your project till the last minute!"
+    },
+    {
+      "ClassName": "ITCS 6114 - Algorithms and Data Structures",
+      "Professor": "Shaoting Zhang",
+      "DifficultyRating": "4",
+      "Message": "Study hard for your mid terms!"
+    },
+    {
+      "ClassName": "ITCS 6160 - Database Systems",
+      "Professor": "Pamela Anderson",
+      "DifficultyRating": "4",
+      "Message": "Learn something new!"
+    }
+  ]
+}
